@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-# CREDITS: This was copied from 
-Sribharath Kainkaryam's https://github.com/srib/HobbyCode/blob/master/FetchBookFromDLI.py
+# CREDITS: This was copied from Sribharath Kainkaryam's https://github.com/srib/HobbyCode/blob/master/FetchBookFromDLI.py
 
 import time
 from argparse import ArgumentParser as ArgumentParser
