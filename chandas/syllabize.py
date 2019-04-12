@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-# from PyICU import BreakIterator
-# To install pyicu:
-# sudo apt-get install libicu-dev
-# sudo easy_install pyicu
+import logging
+
 import PyICU
 
 
@@ -18,5 +15,8 @@ def get_graphemes(a):
     i = j
   return graphemes
 
-a = u"बिक्रम मेरो नाम हो"
-print get_graphemes(a)
+
+
+if __name__ == '__main__':
+  a = u"बिक्रम मेरो नाम हो"
+  logging.info(get_graphemes(a))
