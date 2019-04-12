@@ -31,8 +31,9 @@ def get_syllables(in_string):
   :param in_string: 
   :return: 
   """
-  in_string = in_string.translate(str.maketrans('', '', string.punctuation))
-  in_string = regex.sub(r"\s+", "", in_string, flags=regex.UNICODE)
+  # Cannot do \P{Letter} below as it does not match mAtra-s and virAma-s as of 2019.
+  in_string = regex.sub(r"\P{Devanagari}", "", in_string, flags=regex.UNICODE)
+  in_string = regex.sub(r"\p{Separator}|\p{Number}|\p{Punctuation}|\p{Other}", "", in_string, flags=regex.UNICODE)
   graphemes = get_graphemes(in_string)
   syllables = []
   while len(graphemes) > 0:
