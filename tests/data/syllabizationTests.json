@@ -1,7 +1,7 @@
 {
   "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/syllabizationTests.json",
   "comments": "Shared syllabization tests.",
-  "tests": [
+  "syllableExtractionTests": [
     {
       "phrase": "बिक्रम मेरो नाम हो",
       "syllablesString": "बिक् र म मे रो ना म हो"

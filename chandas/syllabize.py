@@ -44,17 +44,26 @@ def get_syllables(in_string):
   syllables = []
   while len(graphemes) > 0:
     current_syllable = graphemes.pop(0)
-    if len(graphemes) > 0 and regex.match(r"[ ꣠-ꣽ  ᳐-᳹]", graphemes[0]):
+    if len(graphemes) > 0 and regex.fullmatch(r"[ ꣠-ꣽ  ᳐-᳹]", graphemes[0], flags=regex.UNICODE):
       current_syllable = current_syllable  + graphemes.pop(0)
     while len(graphemes) > 0 and is_vyanjanaanta(graphemes[0]):
       current_syllable = current_syllable  + graphemes.pop(0)
-    # Deal with grapheme list like 'सा', 'म्', 'अ', 'प', 'ह', 'त्', 'यै']
-    if is_vyanjanaanta(current_syllable) and len(graphemes) > 0 and regex.match(r"[ऄ-औॲ-ॷ].*", graphemes[0]):
+    # Deal with grapheme list like 'सा', 'म्', 'अ', 'प', 'ह', 'त्', 'यै'] - we'll need to merge म् and अ to get म.
+    if is_vyanjanaanta(current_syllable) and len(graphemes) > 0 and regex.fullmatch(r"[ऄ-औॲ-ॷ].*", graphemes[0], flags=regex.UNICODE):
       vyanjana = current_syllable[-2:]
       graphemes[0] = sanscript.SCHEMES[sanscript.DEVANAGARI].do_vyanjana_svara_join(vyanjana, graphemes[0])
       current_syllable = current_syllable[:-2]
     syllables.append(current_syllable)
   return syllables
 
-def get_maatraas(in_string):
-  raise NotImplemented
+
+def get_syllable_weight(syllable):
+  if regex.search("[् आ ई ऊ ॠ ए ऐ ॠ ॡ औ ओ औ ॐ ऻ ा ी ू ॄ ॗॣ ॎ े ै ो ौ ॕ ं ः  ᳢-ᳬ ᳮ ᳯ ᳰ ᳱ ᳲ ᳳ ᳵ ᳶ]".replace(" ", ""), syllable, flags=regex.UNICODE):
+    return "G"
+  else:
+    return "L"
+
+
+def to_weight_list(line_in):
+  return [get_syllable_weight(syllable) for syllable in get_syllables(line_in)]
+  
