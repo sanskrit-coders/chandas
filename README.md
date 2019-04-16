@@ -28,6 +28,9 @@ Please feel free to use test data published here to test your own modules:
 - [syllabizationTests.json](https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/syllabizationTests.json)
 
 # For contributors
+## Related code and acknowledgement
+We copy much code from [shreevatsa's repo](https://github.com/shreevatsa/sanskrit/).
+
 ## Contact
 
 Have a problem or question? Please head to [github](https://github.com/sanskrit-coders/chandas).
