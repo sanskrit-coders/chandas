@@ -34,10 +34,11 @@ def test_is_vyanjanAnta():
     assert not syllabize.is_vyanjanaanta("तँ")
 
 
-def test_get_syllable_weight():
-    assert syllabize.get_syllable_weight("तल्") == "G"
-    assert syllabize.get_syllable_weight("त") == "L"
-    assert syllabize.get_syllable_weight("ळा") == "G"
+@pytest.mark.parametrize("test_case", [x for x in test_data["syllableExtractionTests"] if "weightsString" in x])
+def test_get_syllable_weight(test_case):
+    logging.debug(str(test_case))
+    assert syllabize.to_weight_list(test_case["phrase"]) == test_case["weightsString"].split(" ")
+
 
 @pytest.mark.parametrize("test_case", test_data["syllableExtractionTests"])
 def test_syllables(test_case):

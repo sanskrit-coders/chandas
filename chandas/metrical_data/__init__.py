@@ -66,7 +66,7 @@ all_data = {}
 
 video_for_metre = {}
 
-def _JsonToPy(filename):
+def _gulp_json(filename):
     """Reads JSON from a file, and puts it into a similar data structure as before."""
     ret = []
     import json
@@ -74,9 +74,8 @@ def _JsonToPy(filename):
     assert data.keys() <= {'comment', 'metres'}
     for metre_name, metre_value in data['metres']:
         if isinstance(metre_value, dict):
-            assert metre_value.keys() <= {'pattern', 'comment', 'instance'}, metre_value.keys()
             if 'pattern' not in metre_value.keys():
-                print('Skipping this: ', metre_value.keys(), ' in ', metre_value)
+                logging.warning('Skipping this: ', metre_value.keys(), ' in ', metre_value)
                 continue
             metre_value = metre_value['pattern']
         if isinstance(metre_value, str) and metre_value.startswith('TODO'):
@@ -332,15 +331,15 @@ def _AddGiti(pada_patterns):
     _AddMetreRegex('Gīti', pada_patterns, simple=False)
 
 
-def InitializeData():
+def initialize_data():
     """Add all known metres to the data structures."""
     _AddAnustup()
     _AddAnustupExamples()
 
     METRE_DATA_PATH = os.path.join(os.path.dirname(__file__), 'jsons')
-    data_filenames = glob(METRE_DATA_PATH + "*.json")
+    data_filenames = glob(METRE_DATA_PATH + "/*.json")
 
-    sources = sum((_JsonToPy(filename)
+    sources = sum((_gulp_json(filename)
                    for filename in data_filenames),
                   [])
 

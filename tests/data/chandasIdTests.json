@@ -1,0 +1,14 @@
+{
+  "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/chandasIdTests.json",
+  "comments": "Shared metre identification tests.",
+  "tests": [
+    {
+      "verse": "वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये ।\nजगतः पितरौ वन्दे पार्वतीपरमेश्वरौ ॥ १.१ ॥",
+      "exactMatches": ["अनुष्टुप् (श्लोक)"]
+    },
+    {
+      "verse": "निर्दिष्टाङ् कुलपतिना स पर्णशालाम् अध्यास्य प्रयतपरिग्रहद्वितीयः ।\nतच्छिष्याध्ययननिवेदितावसानां सव्ँविष्टः कुशशयने निशान् निनाय ॥",
+      "exactMatches": ["प्रहर्षिणी"]
+    }
+  ]
+}

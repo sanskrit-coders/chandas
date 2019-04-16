@@ -65,5 +65,6 @@ def get_syllable_weight(syllable):
 
 
 def to_weight_list(line_in):
-  return [get_syllable_weight(syllable) for syllable in get_syllables(line_in)]
+  syllables = get_syllables(line_in)
+  return [get_syllable_weight(syllable) for syllable in syllables]
   

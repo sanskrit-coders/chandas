@@ -4,39 +4,48 @@
   "syllableExtractionTests": [
     {
       "phrase": "बिक्रम मेरो नाम हो",
-      "syllablesString": "बिक् र म मे रो ना म हो"
+      "syllablesString": "बिक् र म मे रो ना म हो",
+      "weightsString": "G L L G G G L G"
     },
     {
       "phrase": "ॐ मणि पद्मे ऽहम्",
-      "syllablesString": "ओम् म णि पद् मे हम्"
+      "syllablesString": "ओम् म णि पद् मे हम्",
+      "weightsString": "G L L G G G"
     },
     {
       "phrase": "अन्तᳵकरणं संहर!",
-      "syllablesString": "अन् तᳵ क र णं सं ह र"
+      "syllablesString": "अन् तᳵ क र णं सं ह र",
+      "weightsString": "G G L L G G L L"
     },
     {
       "phrase": "अन्तः संहर!",
-      "syllablesString": "अन् तः सं ह र"
+      "syllablesString": "अन् तः सं ह र",
+      "weightsString": "G G G L L"
     },
     {
       "phrase": "अन्तᳶ पश्य!",
-      "syllablesString": "अन् तᳶ पश् य"
+      "syllablesString": "अन् तᳶ पश् य",
+      "weightsString": "G G G L"
     },
     {
       "phrase": "रक्षसाम् अपहत्यै!",
-      "syllablesString": "रक् ष सा म प हत् यै"
+      "syllablesString": "रक् ष सा म प हत् यै",
+      "weightsString": "G L G L L G G"
     },
     {
       "phrase": "तव्ँ वानर!",
-      "syllablesString": "तव्ँ वा न र"
+      "syllablesString": "तव्ँ वा न र",
+      "weightsString": "G G L L"
     },
     {
       "phrase": "तल्ँलीन! ताय्ँ यभ",
-      "syllablesString": "तल्ँ ली न ताय्ँ य भ"
+      "syllablesString": "तल्ँ ली न ताय्ँ य भ",
+      "weightsString": "G G L G L L"
     },
     {
       "phrase": "साँयि।",
-      "syllablesString": "साँ यि"
+      "syllablesString": "साँ यि",
+      "weightsString": "G L"
     }
   ]
 }
