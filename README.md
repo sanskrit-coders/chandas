@@ -16,9 +16,19 @@
 
 
 ## Usage
+For more examples, see tests.
 
+### Metre Identification
 ```
-# For more examples, see tests.
+from chandas import identify
+pattern_lines = "निर्दिष्टाङ् कुलपतिना स पर्णशालाम् अध्यास्य प्रयतपरिग्रहद्वितीयः ।\nतच्छिष्याध्ययननिवेदितावसानां सव्ँविष्टः कुशशयने निशान् निनाय ॥".split("\n")
+id_result = identify.identifier.IdentifyFromPatternLines(pattern_lines)
+assert id_result['exact'] == "Praharṣiṇī"
+```
+
+### Syllabization
+```
+from chandas import syllabize
 syllabize.get_syllables(u"ॐ मणि पद्मे ऽहम्") == "ओम् म णि पद् मे हम्"
 syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क् र म मे रो ना म हो".split(" ")
 ```
@@ -28,7 +38,7 @@ Please feel free to use test data published here to test your own modules:
 - [syllabizationTests.json](https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/syllabizationTests.json)
 
 # For contributors
-## Related code and acknowledgement
+## Intro and acknowledgement
 We copy much code from [shreevatsa's repo](https://github.com/shreevatsa/sanskrit/).
 
 ## Contact
