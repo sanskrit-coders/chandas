@@ -1,5 +1,5 @@
 {
-  "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/syllabizationTests.json",
+  "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/tests/data/syllabizationTests.json",
   "comments": "Shared syllabization tests.",
   "syllableExtractionTests": [
     {

@@ -1,5 +1,5 @@
 {
-  "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/chandasIdTests.json",
+  "canonicalSource": "https://github.com/sanskrit-coders/chandas/blob/master/tests/data/chandasIdTests.json",
   "comments": "Shared metre identification tests.",
   "tests": [
     {
