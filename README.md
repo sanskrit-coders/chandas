@@ -15,8 +15,19 @@
 * [Web](https://pypi.python.org/pypi/chandas).
 
 
-# For contributors
+## Usage
 
+```
+# For more examples, see tests.
+syllabize.get_syllables(u"ॐ मणि पद्मे ऽहम्") == "ओम् म णि पद् मे हम्"
+syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क् र म मे रो ना म हो".split(" ")
+```
+
+## Shared test data
+Please feel free to use test data published here to test your own modules:
+- [syllabizationTests.json](https://github.com/sanskrit-coders/chandas/blob/master/src/test/data/syllabizationTests.json)
+
+# For contributors
 ## Contact
 
 Have a problem or question? Please head to [github](https://github.com/sanskrit-coders/chandas).
