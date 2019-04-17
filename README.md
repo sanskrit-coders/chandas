@@ -23,7 +23,7 @@ For more examples, see tests.
 #### Metre Identification
 ```
 from chandas import identify
-pattern_lines = "निर्दिष्टाङ् कुलपतिना स पर्णशालाम् अध्यास्य प्रयतपरिग्रहद्वितीयः ।\nतच्छिष्याध्ययननिवेदितावसानां सव्ँविष्टः कुशशयने निशान् निनाय ॥".split("\n")
+pattern_lines = identify.to_pattern_lines("निर्दिष्टाङ् कुलपतिना स पर्णशालाम् अध्यास्य प्रयतपरिग्रहद्वितीयः ।\nतच्छिष्याध्ययननिवेदितावसानां सव्ँविष्टः कुशशयने निशान् निनाय ॥".split("\n"))
 id_result = identify.identifier.IdentifyFromPatternLines(pattern_lines)
 assert id_result['exact'] == "Praharṣiṇī"
 ```
