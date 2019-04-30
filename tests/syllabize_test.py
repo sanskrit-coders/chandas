@@ -40,7 +40,7 @@ def test_syllables(test_case):
     assert syllabize.get_syllables(test_case["phrase"]) == test_case["syllablesString"].split(" ")
 
 
-@pytest.mark.parametrize("test_case", "मत् श्री स्त्री".split(" "))
+@pytest.mark.parametrize("test_case", "म मत् श्री स्त्री".split(" "))
 def test_has_vowel(test_case):
     assert syllabize.has_vowel(test_case)
 
