@@ -28,12 +28,6 @@ def test_graphemes():
     assert syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क् र म मे रो ना म हो".split(" ")
 
 
-def test_is_vyanjanAnta():
-    assert syllabize.is_vyanjanaanta("तल्")
-    assert syllabize.is_vyanjanaanta("तल्ँ")
-    assert not syllabize.is_vyanjanaanta("तँ")
-
-
 @pytest.mark.parametrize("test_case", [x for x in test_data["syllableExtractionTests"] if "weightsString" in x])
 def test_get_syllable_weight(test_case):
     logging.debug(str(test_case))
@@ -44,3 +38,23 @@ def test_get_syllable_weight(test_case):
 def test_syllables(test_case):
     logging.debug(str(test_case))
     assert syllabize.get_syllables(test_case["phrase"]) == test_case["syllablesString"].split(" ")
+
+
+@pytest.mark.parametrize("test_case", "मत् श्री स्त्री".split(" "))
+def test_has_vowel(test_case):
+    assert syllabize.has_vowel(test_case)
+
+@pytest.mark.parametrize("test_case", "त् श्र्".split(" "))
+def test_not_has_vowel(test_case):
+    assert not syllabize.has_vowel(test_case)
+
+@pytest.mark.parametrize("test_case", "मत् तल् तल्ँ".split(" "))
+def test_is_vyanjanAnta(test_case):
+    assert syllabize.is_vyanjanaanta(test_case)
+
+
+@pytest.mark.parametrize("test_case", "तँ".split(" "))
+def test_not_is_vyanjanAnta(test_case):
+    assert not syllabize.is_vyanjanaanta(test_case)
+
+

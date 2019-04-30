@@ -28,6 +28,14 @@ def is_vyanjanaanta(in_string):
   return in_string.endswith("्") or in_string.endswith("य्ँ") or in_string.endswith("व्ँ") or in_string.endswith("ल्ँ")
 
 
+def has_vowel(in_string):
+  return bool(regex.fullmatch(".*[ऄ-औ ऺ-ऻ ा-ौ ॎ-ॏ ॲ-ॷ].*".replace(" ", ""), in_string, flags=regex.UNICODE) or regex.fullmatch(".*[क-हक़-य़ॸ-ॿ](?!्).*", in_string, flags=regex.UNICODE))
+
+
+def begins_with_vowel(in_string):
+  return bool(regex.fullmatch(r"[ऄ-औॲ-ॷ].*", in_string, flags=regex.UNICODE))
+
+
 def get_syllables(in_string):
   """ Split devanAgarI string into syllables. Ignores spaces and punctuation.
   
@@ -46,14 +54,19 @@ def get_syllables(in_string):
     current_syllable = graphemes.pop(0)
     if len(graphemes) > 0 and regex.fullmatch(r"[ ꣠-ꣽ  ᳐-᳹]", graphemes[0], flags=regex.UNICODE):
       current_syllable = current_syllable  + graphemes.pop(0)
-    while len(graphemes) > 0 and is_vyanjanaanta(graphemes[0]):
+    while len(graphemes) > 0 and not has_vowel(graphemes[0]):
       current_syllable = current_syllable  + graphemes.pop(0)
-    # Deal with grapheme list like 'सा', 'म्', 'अ', 'प', 'ह', 'त्', 'यै'] - we'll need to merge म् and अ to get म.
-    if is_vyanjanaanta(current_syllable) and len(graphemes) > 0 and regex.fullmatch(r"[ऄ-औॲ-ॷ].*", graphemes[0], flags=regex.UNICODE):
+    if is_vyanjanaanta(current_syllable) and len(graphemes) > 0 and begins_with_vowel(graphemes[0]):
       vyanjana = current_syllable[-2:]
       graphemes[0] = sanscript.SCHEMES[sanscript.DEVANAGARI].do_vyanjana_svara_join(vyanjana, graphemes[0])
       current_syllable = current_syllable[:-2]
-    syllables.append(current_syllable)
+
+    while len(graphemes) > 0 and len(current_syllable) > 0 and not has_vowel(current_syllable):
+      current_syllable = current_syllable  + graphemes.pop(0)
+      # Deal with grapheme list like 'सा', 'म्', 'अ', 'प', 'ह', 'त्', 'यै'] - we'll need to merge म् and अ to get म.
+
+    if len(current_syllable) > 0:
+      syllables.append(current_syllable)
   return syllables
 
 
