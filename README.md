@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/sanskrit-coders/chandas.svg?branch=master)](https://travis-ci.org/sanskrit-coders/chandas)
 [![Documentation Status](https://readthedocs.org/projects/chandas/badge/?version=latest)](http://chandas.readthedocs.io/en/latest/?badge=latest)
+[![Actions Status](https://github.com/sanskrit-coders/chandas/workflows/Python%20package/badge.svg)](https://github.com/sanskrit-coders/chandas/actions)
+[![PyPI version](https://badge.fury.io/py/chandas.svg)](https://badge.fury.io/py/chandas)
 
 ### Intro
 This is a python package for Indic language (mostly sanskrit) metre identification and related tasks like syllabization. This module expects devanAgarI input, and currently produces IAST output.
