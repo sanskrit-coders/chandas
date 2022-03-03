@@ -62,7 +62,9 @@ def get_syllables(in_string):
 
 
 def get_syllable_weight(syllable):
-  if regex.search("[् आ ई ऊ ॠ ए ऐ ॠ ॡ औ ओ औ ॐ ऻ ा ी ू ॄ ॗॣ ॎ े ै ो ौ ॕ ं ः  ᳢-ᳬ ᳮ ᳯ ᳰ ᳱ ᳲ ᳳ ᳵ ᳶ]".replace(" ", ""), syllable, flags=regex.UNICODE):
+  if regex.match(r"([क-हक़-य़ॸ-ॿ]्)*[क-हक़-य़ॸ-ॿ][ ऻ ा ी ू ॄ ॗॣ ॎ े ै ो ौ ॕ ं ः  ᳢-ᳬ ᳮ ᳯ ᳰ ᳱ ᳲ ᳳ ᳵ ᳶ]".replace(" ", ""), syllable):
+    return "G"
+  elif regex.findall(r"[ऄ-हक़-ॡॲ-ॿ][ऺ-ॏॢ-ॣॕ-ॗ]*[ऀ-ः]*[ ꣠-ꣽ  ᳐-᳹]*([क-हक़-य़ॸ-ॿ]्ँ?)+", syllable):
     return "G"
   else:
     return "L"
