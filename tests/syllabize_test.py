@@ -25,7 +25,7 @@ with open(TEST_DATA_PATH) as test_data_file:
 
 
 def test_graphemes():
-    assert syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क् र म मे रो ना म हो".split(" ")
+    assert syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क्र म मे रो ना म हो".split(" ")
 
 
 @pytest.mark.parametrize("test_case", [x for x in test_data["syllableExtractionTests"] if "weightsString" in x])

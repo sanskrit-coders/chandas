@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import logging
 import string
+from itertools import takewhile
 
 import PyICU
 import regex
@@ -9,7 +10,7 @@ from indic_transliteration import sanscript
 def get_graphemes(in_string):
   """ Split a devanAgarI and possibly other strings into graphemes.
   
-  Example: assert syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क् र म मे रो ना म हो".split(" ")
+  Example: assert syllabize.get_graphemes(u"बिक्रममेरोनामहो") == "बि क्र म मे रो ना म हो".split(" ")
   :param in_string: 
   :return: 
   """
@@ -23,13 +24,12 @@ def get_graphemes(in_string):
     i = j
   return graphemes
 
-
 def is_vyanjanaanta(in_string):
   return in_string.endswith("्") or in_string.endswith("य्ँ") or in_string.endswith("व्ँ") or in_string.endswith("ल्ँ")
 
 
 def has_vowel(in_string):
-  return bool(regex.fullmatch(".*[ऄ-औ ऺ-ऻ ा-ौ ॎ-ॏ ॲ-ॷ].*".replace(" ", ""), in_string, flags=regex.UNICODE) or regex.fullmatch(".*[क-हक़-य़ॸ-ॿ](?!्).*", in_string, flags=regex.UNICODE))
+  return bool(regex.fullmatch(".*[ऄ-औ ऺ-ऻ ा-ौ ॎ-ॏ ॲ-ॷ].*".replace(" ", ""), in_string, flags=regex.UNICODE) or regex.match(".*[क-हक़-य़ॸ-ॿ](?=([^्]|$))", in_string, flags=regex.UNICODE))
 
 
 def begins_with_vowel(in_string):
@@ -48,23 +48,13 @@ def get_syllables(in_string):
   cleaned_phrase = regex.sub(r"([^ऀ-़ ा-ॣ ॲ-ॿ  ꣠-ꣽ  ᳐-᳹])", "", in_string, flags=regex.UNICODE)
   cleaned_phrase = cleaned_phrase.replace("ॐ", "ओम्")
   cleaned_phrase = cleaned_phrase.replace(" ", "")
-  graphemes = get_graphemes(cleaned_phrase)
+  cleaned_phrase = regex.sub(r"([क-हक़-य़ॸ-ॿ]्)([ऄ-औॠॡॲ-ॷ])", lambda x: sanscript.SCHEMES[sanscript.DEVANAGARI].do_vyanjana_svara_join(x.group(1), x.group(2)), cleaned_phrase)
   syllables = []
-  while len(graphemes) > 0:
-    current_syllable = graphemes.pop(0)
-    if len(graphemes) > 0 and regex.fullmatch(r"[ ꣠-ꣽ  ᳐-᳹]", graphemes[0], flags=regex.UNICODE):
-      current_syllable = current_syllable  + graphemes.pop(0)
-    while len(graphemes) > 0 and not has_vowel(graphemes[0]):
-      current_syllable = current_syllable  + graphemes.pop(0)
-    if is_vyanjanaanta(current_syllable) and len(graphemes) > 0 and begins_with_vowel(graphemes[0]):
-      vyanjana = current_syllable[-2:]
-      graphemes[0] = sanscript.SCHEMES[sanscript.DEVANAGARI].do_vyanjana_svara_join(vyanjana, graphemes[0])
-      current_syllable = current_syllable[:-2]
-
-    while len(graphemes) > 0 and len(current_syllable) > 0 and not has_vowel(current_syllable):
-      current_syllable = current_syllable  + graphemes.pop(0)
-      # Deal with grapheme list like 'सा', 'म्', 'अ', 'प', 'ह', 'त्', 'यै'] - we'll need to merge म् and अ to get म.
-
+  while len(cleaned_phrase) > 0:
+    # possible vyanjanas without vowels + svara or vyanjana + possible vowel marks + possible yogavAhas + possible accents + possible vyanjanas without vowels
+    match = regex.match(r"([क-हक़-य़ॸ-ॿ]्)*[ऄ-हक़-ॡॲ-ॿ][ऺ-ॏॢ-ॣॕ-ॗ]*[ऀ-ः]*[ ꣠-ꣽ  ᳐-᳹]*([क-हक़-य़ॸ-ॿ]्ँ?)*", cleaned_phrase)
+    current_syllable = match.group(0)
+    cleaned_phrase = cleaned_phrase.replace(match.group(0), "", 1)
     if len(current_syllable) > 0:
       syllables.append(current_syllable)
   return syllables
