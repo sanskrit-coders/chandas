@@ -3,8 +3,9 @@ import logging
 import string
 from itertools import takewhile
 
-import PyICU
+import icu
 import regex
+
 from indic_transliteration import sanscript
 
 def get_graphemes(in_string):
@@ -14,7 +15,7 @@ def get_graphemes(in_string):
   :param in_string: 
   :return: 
   """
-  break_iterator = PyICU.BreakIterator.createCharacterInstance(PyICU.Locale())
+  break_iterator = icu.BreakIterator.createCharacterInstance(icu.Locale())
   break_iterator.setText(in_string)
   i = 0
   graphemes = []
