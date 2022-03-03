@@ -58,7 +58,7 @@ def get_syllables(in_string):
   syllables = []
   while len(cleaned_phrase) > 0:
     # possible vyanjanas without vowels + svara or vyanjana + possible vowel marks + possible yogavAhas + possible accents + possible vyanjanas without vowels
-    match = regex.match((r"(%s)*[%s%s][%s]*[%s]*[%s]*(%sँ?)*" % (dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL,dev_scheme.PATTERN_INDEPENDENT_VOWEL, dev_scheme.PATTERN_VYANJANA, dev_scheme.PATTERN_DEPENDENT_VOWEL, dev_scheme.PATTERN_YOGAVAAHA, dev_scheme.PATTERN_ACCENT, dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL, )), cleaned_phrase)
+    match = regex.match((r"(%s)*[%s%s]़?[%s]*[%s]*[%s]*(%sँ?)*" % (dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL,dev_scheme.PATTERN_INDEPENDENT_VOWEL, dev_scheme.PATTERN_VYANJANA, dev_scheme.PATTERN_DEPENDENT_VOWEL, dev_scheme.PATTERN_YOGAVAAHA, dev_scheme.PATTERN_ACCENT, dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL, )), cleaned_phrase)
     if match is None:
       message = "No match! Input - %s Remaining - %s" % (in_string, cleaned_phrase)
       logging.fatal(message)
@@ -74,7 +74,7 @@ def get_syllable_weight(syllable):
   dev_scheme = sanscript.SCHEMES[sanscript.DEVANAGARI]
   if regex.findall(r"[%s%s%s]" % (dev_scheme.PATTERN_GURU_INDEPENDENT_VOWEL, dev_scheme.PATTERN_GURU_DEPENDENT_VOWEL, dev_scheme.PATTERN_GURU_YOGAVAAHA), syllable):
     return "G"
-  elif regex.findall(r"[%s%s][%s]*[%s]*[%s]*(%s)+" % (dev_scheme.PATTERN_INDEPENDENT_VOWEL, dev_scheme.PATTERN_VYANJANA, dev_scheme.PATTERN_DEPENDENT_VOWEL, dev_scheme.PATTERN_YOGAVAAHA, dev_scheme.PATTERN_ACCENT, dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL, ), syllable):
+  elif regex.findall(r"[%s%s]़?[%s]*[%s]*[%s]*(%s)+" % (dev_scheme.PATTERN_INDEPENDENT_VOWEL, dev_scheme.PATTERN_VYANJANA, dev_scheme.PATTERN_DEPENDENT_VOWEL, dev_scheme.PATTERN_YOGAVAAHA, dev_scheme.PATTERN_ACCENT, dev_scheme.PATTERN_VYANJANA_WITHOUT_VOWEL, ), syllable):
     return "G"
   else:
     return "L"
