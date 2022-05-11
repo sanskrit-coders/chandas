@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 import logging
-import string
-from argparse import ArgumentError
-from itertools import takewhile
 
 import icu
 import regex
 
 from indic_transliteration import sanscript
+
 
 def get_graphemes(in_string):
   """ Split a devanAgarI and possibly other strings into graphemes.
