@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import logging
 
-import icu
 import regex
 
 from indic_transliteration import sanscript
@@ -14,6 +13,7 @@ def get_graphemes(in_string):
   :param in_string: 
   :return: 
   """
+  import icu
   break_iterator = icu.BreakIterator.createCharacterInstance(icu.Locale())
   break_iterator.setText(in_string)
   i = 0
