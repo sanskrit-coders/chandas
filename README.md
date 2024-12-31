@@ -14,9 +14,10 @@ This is a python package for Indic language (mostly sanskrit) metre identificati
 * For detailed examples and help, please see individual module files in this package.
 
 ### Installation or upgrade:
-* `sudo pip install chandas -U`
-* `sudo pip install git+https://github.com/sanskrit-coders/chandas/@master -U`
-* [Web](https://pypi.python.org/pypi/chandas).
+- `sudo apt-get install build-essential pkg-config libicu-dev`
+- `sudo pip install chandas -U`
+- `sudo pip install git+https://github.com/sanskrit-coders/chandas/@master -U`
+- [Web](https://pypi.python.org/pypi/chandas).
 
 
 ### Usage

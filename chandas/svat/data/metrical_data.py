@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Data structures that store matching metres for known patterns."""
 
-from __future__ import absolute_import, division, print_function, unicode_literals
+from __future__ import absolute_import, division, unicode_literals
 
 import logging
 import os
@@ -90,7 +90,7 @@ def jsonToPy(filename):
     if isinstance(metre_value, dict):
       # assert metre_value.keys() <= {'pattern', 'comment', 'instance'}, metre_value.keys()
       if 'pattern' not in metre_value.keys():
-        print('Skipping this: ', metre_value.keys(), ' in ', metre_value)
+        # logging.debug('Skipping this: ', metre_value.keys(), ' in ', metre_value)
         continue
       metre_value = metre_value['pattern']
     if isinstance(metre_value, unicode) and metre_value.startswith('TODO'):
@@ -105,7 +105,7 @@ def GetPattern(metre):
 
 def _RemoveChars(input_string, chars):
   """Wrapper function because string.translate != unicode.translate."""
-  # print('input_string is ', input_string.encode('utf-8'))
+  # logging.debug('input_string is ', input_string.encode('utf-8'))
   for char in chars:
     input_string = input_string.replace(char, '')
   return input_string
@@ -129,12 +129,13 @@ def _CleanUpSimpleRegex(regex):
 def _AddPatternForMetre(metre_name, pada_patterns):
   if metre_name in pattern_for_metre:
     if pattern_for_metre[metre_name] != pada_patterns:
-      # Print('Mismatch for %s' % metre_name)
-      # Print(pattern_for_metre[metre_name])
-      # Print('   vs   ')
-      # Print(pada_patterns)
+      # logging.debug('Mismatch for %s' % metre_name)
+      # logging.debug(pattern_for_metre[metre_name])
+      # logging.debug('   vs   ')
+      # logging.debug(pada_patterns)
       # assert False
-      logging.info('Not overwriting as already present: %s' % metre_name)
+      pass
+      # logging.debug('Not overwriting as already present: %s' % metre_name)
     return
   pattern_for_metre[metre_name] = pada_patterns
 
@@ -142,10 +143,10 @@ def _AddPatternForMetre(metre_name, pada_patterns):
 def _AddFullPattern(full_pattern, metre_name):
   if full_pattern in known_full_patterns:
     # TODO(shreevatsa): Figure out what exactly to do in this case
-    # Print('Error: full pattern already present')
-    # Print(metre_name)
-    # Print(full_pattern)
-    # Print(known_full_patterns[full_pattern])
+    # logging.debug('Error: full pattern already present')
+    # logging.debug(metre_name)
+    # logging.debug(full_pattern)
+    # logging.debug(known_full_patterns[full_pattern])
     return False
   assert full_pattern not in known_full_patterns
   known_full_patterns[full_pattern] = {metre_name: True}
@@ -176,7 +177,7 @@ def _AddArdhasamavrttaPattern(metre_name, odd_and_even_pada_patterns):
   assert re.match(r'^[LG]*$', clean_odd)
   clean_even = _CleanUpPattern(even_pada_pattern)
   # if clean_even.endswith('L'):
-  #   Print('Not adding %s for now, as %s ends with laghu' % (metre_name, clean_even))
+  #   logging.debug('Not adding %s for now, as %s ends with laghu' % (metre_name, clean_even))
   #   return
   # assert re.match(r'^[LG]*G$', clean_even), (metre_name, clean_even)
   _AddPatternForMetre(metre_name, [clean_odd, clean_even] * 2)
