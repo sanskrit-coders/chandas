@@ -1,0 +1,8 @@
+# Additional requirements for the RL environment
+# These are in addition to the core requirements in the main requirements.txt
+
+# Optional: For uploading datasets to Hugging Face
+huggingface_hub>=0.12.0
+
+# Note: The datasets library is no longer required as we've implemented
+# a custom SimplePoetryDataset class that doesn't depend on external libraries

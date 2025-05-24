@@ -1,0 +1,3504 @@
+{
+  "tasks": [
+    {
+      "meter": "शिखरिणी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ज्ञानम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "परमात्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रेम",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रेम."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रेम",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रेम."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about सूर्यः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "आत्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about आत्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "नदी",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about नदी."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वीरता",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वीरता."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वीरता",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वीरता."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about भक्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "पर्वतः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about पर्वतः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about भक्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "पर्वतः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about पर्वतः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रेम",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रेम."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "सूर्यः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "सूर्यः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about सूर्यः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "समुद्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about समुद्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "आत्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about आत्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about समुद्रः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about समुद्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about सूर्यः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रेम",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रेम."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about शान्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about आत्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "आत्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about आत्मा."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "शान्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about शान्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about परमात्मा."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रेम",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रेम."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about सूर्यः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about समुद्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रकृतिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "पर्वतः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about पर्वतः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रकृतिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "परमात्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "नदी",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about नदी."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वीरता",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वीरता."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "धर्मः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about धर्मः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "नदी",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about नदी."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "शान्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about शान्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वीरता",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वीरता."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वीरता",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वीरता."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वनम्."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about शान्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वीरता",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वीरता."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about समुद्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about भक्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "धर्मः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about धर्मः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about शान्तिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "परमात्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about परमात्मा."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रेम",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रेम."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "शान्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about शान्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about परमात्मा."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "आत्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about आत्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "आत्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about आत्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "नदी",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about नदी."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ज्ञानम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about चन्द्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "समुद्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about समुद्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about धर्मः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "शान्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about शान्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about भक्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about शान्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about शान्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "आत्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about आत्मा."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about पर्वतः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about पर्वतः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रेम",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रेम."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "धर्मः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about धर्मः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रेम",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रेम."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about परमात्मा."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "नदी",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about नदी."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "सूर्यः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about सूर्यः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "आत्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about आत्मा."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रेम."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वनम्."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about शान्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "धर्मः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about धर्मः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "परमात्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about परमात्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "धर्मः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about धर्मः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "धर्मः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about धर्मः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रेम."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "भक्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about भक्तिः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about शान्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "समुद्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about समुद्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "पर्वतः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about पर्वतः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "समुद्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about समुद्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "शान्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about शान्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "शान्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about शान्तिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "भक्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about भक्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वीरता",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वीरता."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "समुद्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about समुद्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about सूर्यः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about पर्वतः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "सूर्यः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about सूर्यः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "धर्मः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about धर्मः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रेम",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रेम."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about चन्द्रः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about शान्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "शान्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about शान्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रेम",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रेम."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ज्ञानम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "सूर्यः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "नदी",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रेम",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रेम."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about चन्द्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "भक्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about भक्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about धर्मः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about भक्तिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "समुद्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about समुद्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "नदी",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about नदी."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "भक्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ज्ञानम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about परमात्मा."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ज्ञानम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "परमात्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about परमात्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रेम",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रेम."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about चन्द्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about आत्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about समुद्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about भक्तिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about परमात्मा."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about चन्द्रः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about सूर्यः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "सूर्यः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about सूर्यः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about पर्वतः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about परमात्मा."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रकृतिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about धर्मः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रकृतिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "शान्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about शान्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रकृतिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "सूर्यः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about सूर्यः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "भक्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about भक्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वनम्."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रेम."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about परमात्मा."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ज्ञानम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about शान्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वीरता",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वीरता."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about समुद्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रकृतिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रकृतिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "भक्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about भक्तिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "सूर्यः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about सूर्यः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about चन्द्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "पर्वतः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about पर्वतः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वीरता",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वीरता."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रकृतिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about धर्मः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about चन्द्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "समुद्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about समुद्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वीरता",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वीरता."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about शान्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "भक्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about भक्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "शान्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about शान्तिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about पर्वतः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वीरता",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वीरता."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about भक्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "आत्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about आत्मा."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "भक्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "आत्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about आत्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ज्ञानम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about चन्द्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वीरता",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वीरता."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "आत्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about आत्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ज्ञानम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about चन्द्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "धर्मः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about सूर्यः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "सूर्यः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about सूर्यः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "आत्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about आत्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रकृतिः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "धर्मः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about धर्मः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "आत्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about आत्मा."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "धर्मः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about भक्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वीरता",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वीरता."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about समुद्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about भक्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "परमात्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about परमात्मा."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "धर्मः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about धर्मः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "भक्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about भक्तिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "पर्वतः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about पर्वतः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "समुद्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about समुद्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about भक्तिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about परमात्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about सूर्यः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "समुद्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about समुद्रः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "नदी",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "धर्मः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about आत्मा."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about चन्द्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "नदी",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रकृतिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "शान्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about शान्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about सूर्यः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about सूर्यः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रकृतिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रकृतिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वीरता",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वीरता."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about पर्वतः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रकृतिः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about शान्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about चन्द्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रेम",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रेम."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "सूर्यः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about सूर्यः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about भक्तिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "प्रेम",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about प्रेम."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about पर्वतः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "भक्तिः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about भक्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "पर्वतः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about पर्वतः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about समुद्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "नदी",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about नदी."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "सूर्यः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about शान्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about चन्द्रः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "भक्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "नदी",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about नदी."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वनम्",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वनम्."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about आत्मा."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वीरता",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वीरता."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "धर्मः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about धर्मः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रेम."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about समुद्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वनम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वनम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about ज्ञानम्."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वीरता",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वीरता."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वीरता",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वीरता."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "नदी",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about नदी."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "पर्वतः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about पर्वतः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "धर्मः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about धर्मः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "आत्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about आत्मा."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "भक्तिः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about भक्तिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about चन्द्रः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "सूर्यः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about सूर्यः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "सूर्यः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रेम",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रेम."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "शान्तिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about शान्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रकृतिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "नदी",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about नदी."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "समुद्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about समुद्रः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about पर्वतः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "परमात्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about परमात्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ज्ञानम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "धर्मः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about धर्मः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "धर्मः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "नदी",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "धर्मः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about धर्मः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "शान्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about शान्तिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "आत्मा",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about आत्मा."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वीरता",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वीरता."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about ज्ञानम्."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "नदी",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about नदी."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "शान्तिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about शान्तिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about प्रकृतिः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "नदी",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about नदी."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "नदी",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about नदी."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "धर्मः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about धर्मः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "नदी",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about नदी."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "पर्वतः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about पर्वतः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about सूर्यः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about पर्वतः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about पर्वतः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ज्ञानम्."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "आत्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about आत्मा."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "नदी",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about नदी."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "नदी",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about नदी."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "परमात्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about परमात्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "नदी",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about नदी."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ज्ञानम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ज्ञानम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ज्ञानम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "नदी",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about नदी."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वीरता",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वीरता."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "भक्तिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about भक्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about चन्द्रः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about पर्वतः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "पर्वतः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about पर्वतः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "नदी",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "धर्मः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about धर्मः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "भक्तिः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about भक्तिः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about प्रकृतिः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "परमात्मा",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about परमात्मा."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about चन्द्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "शान्तिः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about शान्तिः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रेम",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रेम."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वनम्",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about चन्द्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about सूर्यः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about सूर्यः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about परमात्मा."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about समुद्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "पर्वतः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about पर्वतः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "परमात्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "YYYJG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about परमात्मा."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "नदी",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about नदी."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "प्रेम",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about प्रेम."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वनम्."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "भक्तिः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about भक्तिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "आत्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about आत्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "सूर्यः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about सूर्यः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "वीरता",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about वीरता."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about परमात्मा."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "प्रेम",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about प्रेम."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "भक्तिः",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about भक्तिः."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "नदी",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about नदी."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वीरता",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वीरता."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रकृतिः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about चन्द्रः."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "पर्वतः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about पर्वतः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वनम्."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "चन्द्रः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about चन्द्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "वीरता",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मालिनी meter about वीरता."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "वीरता",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about वीरता."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "समुद्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about समुद्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about प्रेम."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "चन्द्रः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about चन्द्रः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "सूर्यः",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about सूर्यः."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "प्रेम",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about प्रेम."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about चन्द्रः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वीरता",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वीरता."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "परमात्मा",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "वीरता",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about वीरता."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "वनम्",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about वनम्."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "वनम्",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about वनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about आत्मा."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "प्रकृतिः",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about प्रकृतिः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "आत्मा",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about आत्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about सूर्यः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "ऋतुवर्णनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about ऋतुवर्णनम्."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about समुद्रः."
+    },
+    {
+      "meter": "शिखरिणी",
+      "topic": "पर्वतः",
+      "meter_pattern": "YMNSJTGJGLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in शिखरिणी meter about पर्वतः."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "वनम्",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about वनम्."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "धर्मः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about धर्मः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "प्रेम",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about प्रेम."
+    },
+    {
+      "meter": "अनुष्टुभ्",
+      "topic": "समुद्रः",
+      "meter_pattern": "LLGLGLLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in अनुष्टुभ् meter about समुद्रः."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "आत्मा",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about आत्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "चन्द्रः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about चन्द्रः."
+    },
+    {
+      "meter": "उपेन्द्रवज्रा",
+      "topic": "परमात्मा",
+      "meter_pattern": "JTGTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in उपेन्द्रवज्रा meter about परमात्मा."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "प्रेम",
+      "meter_pattern": "YYYJG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about प्रेम."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "वनम्",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about वनम्."
+    },
+    {
+      "meter": "भुजङ्गप्रयातम्",
+      "topic": "धर्मः",
+      "meter_pattern": "YYYJG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in भुजङ्गप्रयातम् meter about धर्मः."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "सूर्यः",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about सूर्यः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "समुद्रः",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मालिनी meter about समुद्रः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "परमात्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about परमात्मा."
+    },
+    {
+      "meter": "वसन्ततिलका",
+      "topic": "पर्वतः",
+      "meter_pattern": "TGJTGJTGLGG",
+      "difficulty": "hard",
+      "description": "Compose a Sanskrit poem in वसन्ततिलका meter about पर्वतः."
+    },
+    {
+      "meter": "मालिनी",
+      "topic": "आत्मा",
+      "meter_pattern": "NNMMYYLG",
+      "difficulty": "easy",
+      "description": "Compose a Sanskrit poem in मालिनी meter about आत्मा."
+    },
+    {
+      "meter": "इन्द्रवज्रा",
+      "topic": "आत्मा",
+      "meter_pattern": "TGTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in इन्द्रवज्रा meter about आत्मा."
+    },
+    {
+      "meter": "द्रुतविलम्बितम्",
+      "topic": "समुद्रः",
+      "meter_pattern": "NBLGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in द्रुतविलम्बितम् meter about समुद्रः."
+    },
+    {
+      "meter": "मन्दाक्रान्ता",
+      "topic": "वनम्",
+      "meter_pattern": "MMMTGJTGLGG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in मन्दाक्रान्ता meter about वनम्."
+    },
+    {
+      "meter": "शार्दूलविक्रीडितम्",
+      "topic": "परमात्मा",
+      "meter_pattern": "MSMSJTGJGLG",
+      "difficulty": "medium",
+      "description": "Compose a Sanskrit poem in शार्दूलविक्रीडितम् meter about परमात्मा."
+    }
+  ]
+}

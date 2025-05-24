@@ -1,0 +1,12 @@
+{
+  "name": "sanskrit-metrical-poetry",
+  "description": "Sanskrit Metrical Poetry Dataset for RL training",
+  "language": "sa",
+  "license": "cc-by-4.0",
+  "tags": [
+    "sanskrit",
+    "poetry",
+    "metrical-poetry",
+    "reinforcement-learning"
+  ]
+}
