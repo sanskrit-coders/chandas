@@ -1,0 +1,1542 @@
+[
+  {
+    "id": 0,
+    "topic": "धर्म",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about धर्म in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "गुरु",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "शान्ति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "मित्रता",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मित्रता in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "प्रकृति",
+    "meter": "अनुष्टुप्",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "शौर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "प्रकृति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about प्रकृति in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "धर्म",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "शान्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about शान्ति in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "धर्म",
+    "meter": "मालिनी",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "प्रकृति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "सौंदर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "भक्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "विद्या",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "धर्म",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about धर्म in मालिनी meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "गुरु",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "प्रकृति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about प्रकृति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "सत्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "भक्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about भक्ति in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "गुरु",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "करुणा",
+    "meter": "मालिनी",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "सौंदर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "मातृभूमि",
+    "meter": "मालिनी",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "सौंदर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "प्रकृति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about प्रकृति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "मातृभूमि",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "विद्या",
+    "meter": "अनुष्टुप्",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "विद्या",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about विद्या in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "करुणा",
+    "meter": "अनुष्टुप्",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "शौर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "शान्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about शान्ति in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "गुरु",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "सौंदर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "मातृभूमि",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "विद्या",
+    "meter": "अनुष्टुप्",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "मातृभूमि",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "करुणा",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "धर्म",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about धर्म in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "सौंदर्य",
+    "meter": "मालिनी",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "करुणा",
+    "meter": "मालिनी",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "सौंदर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "शान्ति",
+    "meter": "अनुष्टुप्",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "शौर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "मातृभूमि",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "भक्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "शान्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "मातृभूमि",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "गुरु",
+    "meter": "मालिनी",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "प्रकृति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "विद्या",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about विद्या in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "विद्या",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "विद्या",
+    "meter": "वसन्ततिलका",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about मित्रता in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "प्रकृति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "शान्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "शौर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about शौर्य in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "सत्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "भक्ति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about भक्ति in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "सत्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "सत्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "धर्म",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about धर्म in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "गुरु",
+    "meter": "मालिनी",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "सौंदर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "शौर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "भक्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about भक्ति in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "करुणा",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "मातृभूमि",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about शान्ति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "मातृभूमि",
+    "meter": "अनुष्टुप्",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "प्रकृति",
+    "meter": "अनुष्टुप्",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "सौंदर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "धर्म",
+    "meter": "अनुष्टुप्",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "भक्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "मातृभूमि",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "प्रकृति",
+    "meter": "मालिनी",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "गुरु",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about गुरु in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "प्रकृति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "विद्या",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "मातृभूमि",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "प्रकृति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "सत्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "मातृभूमि",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "सौंदर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "करुणा",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "शान्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about शान्ति in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "करुणा",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "करुणा",
+    "meter": "वसन्ततिलका",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about मित्रता in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "विद्या",
+    "meter": "वसन्ततिलका",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "सत्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "प्रकृति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about प्रकृति in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "धर्म",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "गुरु",
+    "meter": "मालिनी",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "धर्म",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about धर्म in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "सौंदर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about मित्रता in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "भक्ति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "विद्या",
+    "meter": "वसन्ततिलका",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "करुणा",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about करुणा in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "मित्रता",
+    "meter": "वसन्ततिलका",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "सौंदर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "भक्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "सत्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about सत्य in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "करुणा",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "शौर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "भक्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about भक्ति in मालिनी meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "सौंदर्य",
+    "meter": "मालिनी",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "प्रकृति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "धर्म",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about धर्म in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "मित्रता",
+    "meter": "अनुष्टुप्",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "गुरु",
+    "meter": "अनुष्टुप्",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "शान्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about शान्ति in मालिनी meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "धर्म",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "करुणा",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about करुणा in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "विद्या",
+    "meter": "वसन्ततिलका",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "भक्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about भक्ति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "सौंदर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "सौंदर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "शौर्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about शौर्य in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "सत्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "करुणा",
+    "meter": "वसन्ततिलका",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "सत्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about सत्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "मातृभूमि",
+    "meter": "अनुष्टुप्",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "प्रकृति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "धर्म",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about धर्म in मालिनी meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "मातृभूमि",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "शौर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "सौंदर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "मातृभूमि",
+    "meter": "वसन्ततिलका",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "विद्या",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "सौंदर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "प्रकृति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "शौर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about शौर्य in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "भक्ति",
+    "meter": "मालिनी",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "प्रकृति",
+    "meter": "अनुष्टुप्",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "विद्या",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about विद्या in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "शौर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "धर्म",
+    "meter": "मालिनी",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about विद्या in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "विद्या",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about मित्रता in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "प्रकृति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "शान्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "धर्म",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about धर्म in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "शौर्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "भक्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "सत्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about सत्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "गुरु",
+    "meter": "वसन्ततिलका",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "प्रकृति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about शान्ति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "सौंदर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "मातृभूमि",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "भक्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "करुणा",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about करुणा in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "शान्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about मित्रता in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "भक्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "करुणा",
+    "meter": "वसन्ततिलका",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "मातृभूमि",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about मातृभूमि in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "मातृभूमि",
+    "meter": "वसन्ततिलका",
+    "prompt": "'मातृभूमि' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "शान्ति",
+    "meter": "अनुष्टुप्",
+    "prompt": "Write a Sanskrit verse about शान्ति in अनुष्टुप् meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "शौर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "सौंदर्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "मित्रता",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मित्रता in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "प्रकृति",
+    "meter": "मालिनी",
+    "prompt": "'प्रकृति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "सौंदर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "मित्रता",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about मित्रता in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "शौर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about शान्ति in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "सौंदर्य",
+    "meter": "मालिनी",
+    "prompt": "'सौंदर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "शौर्य",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about शौर्य in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "विद्या",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "विद्या",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "शान्ति",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about शान्ति in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "गुरु",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "विद्या",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "विद्या",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about विद्या in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "धर्म",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'धर्म' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "गुरु",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about गुरु in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "शान्ति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "सौंदर्य",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in मालिनी meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "भक्ति",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'भक्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "शान्ति",
+    "meter": "वसन्ततिलका",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "करुणा",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about करुणा in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "सत्य",
+    "meter": "मालिनी",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 0,
+    "topic": "सौंदर्य",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about सौंदर्य in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 1,
+    "topic": "मित्रता",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'इन्द्रवज्रा' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 2,
+    "topic": "करुणा",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'करुणा' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 3,
+    "topic": "मित्रता",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about मित्रता in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 4,
+    "topic": "शान्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "'शान्ति' विषय पर एक संस्कृत श्लोक लिखिए जो 'शार्दूलविक्रीडित' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 5,
+    "topic": "मित्रता",
+    "meter": "अनुष्टुप्",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 6,
+    "topic": "सत्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "Write a Sanskrit verse about सत्य in वसन्ततिलका meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 7,
+    "topic": "मित्रता",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'मित्रता' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 8,
+    "topic": "गुरु",
+    "meter": "वसन्ततिलका",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "basic"
+  },
+  {
+    "id": 9,
+    "topic": "विद्या",
+    "meter": "मालिनी",
+    "prompt": "Write a Sanskrit verse about विद्या in मालिनी meter with philosophical depth",
+    "difficulty": "basic"
+  },
+  {
+    "id": 10,
+    "topic": "गुरु",
+    "meter": "वसन्ततिलका",
+    "prompt": "'गुरु' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 11,
+    "topic": "सत्य",
+    "meter": "अनुष्टुप्",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'अनुष्टुप्' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 12,
+    "topic": "शान्ति",
+    "meter": "शार्दूलविक्रीडित",
+    "prompt": "Write a Sanskrit verse about शान्ति in शार्दूलविक्रीडित meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 13,
+    "topic": "शौर्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'शौर्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 14,
+    "topic": "सत्य",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 15,
+    "topic": "धर्म",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "Write a Sanskrit verse about धर्म in मन्दाक्रान्ता meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 16,
+    "topic": "सत्य",
+    "meter": "मालिनी",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'मालिनी' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 17,
+    "topic": "सत्य",
+    "meter": "वसन्ततिलका",
+    "prompt": "'सत्य' विषय पर एक संस्कृत श्लोक लिखिए जो 'वसन्ततिलका' छन्द में हो।",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 18,
+    "topic": "भक्ति",
+    "meter": "इन्द्रवज्रा",
+    "prompt": "Write a Sanskrit verse about भक्ति in इन्द्रवज्रा meter with philosophical depth",
+    "difficulty": "advanced"
+  },
+  {
+    "id": 19,
+    "topic": "विद्या",
+    "meter": "मन्दाक्रान्ता",
+    "prompt": "'विद्या' विषय पर एक संस्कृत श्लोक लिखिए जो 'मन्दाक्रान्ता' छन्द में हो।",
+    "difficulty": "advanced"
+  }
+]
