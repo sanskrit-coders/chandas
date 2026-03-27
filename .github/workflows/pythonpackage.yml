@@ -47,6 +47,7 @@ jobs:
         python -m pip install .
         pip install setuptools wheel twine
         python setup.py bdist_wheel
+        pip show -f chandas
     - name: Build test
       run: |
         python -c "import chandas"
