@@ -1,4 +1,5 @@
 from chandas import syllabize
+from chandas.vedic import is_rk
 from chandas.svat.data import metrical_data
 from chandas.svat.identify import identifier
 
